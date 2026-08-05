@@ -1,0 +1,26 @@
+{
+    "Project Management": [
+        "Kickoff Meeting",
+        "Material Reception",
+        "Final Survey",
+        "Work Schedule"
+    ],
+
+    "Main Gatehouse": [
+        "Main Rack",
+        "Main Switch",
+        "UPS",
+        "Monitoring PC",
+        "Software Installation",
+        "Network Configuration",
+        "Testing"
+    ],
+
+    "Fiber Backbone": [
+        "Fiber to Tower 1",
+        "Fiber to Tower 2",
+        "Fiber to Tower 3",
+        "Fiber to Tower 4",
+        "Fiber to SUM/Gym"
+    ]
+}

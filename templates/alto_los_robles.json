@@ -1,0 +1,137 @@
+{
+    "Gestión del Proyecto": [
+        "Reunión inicial",
+        "Recepción de materiales",
+        "Verificación de cañerías existentes",
+        "Relevamiento final",
+        "Cronograma de obra"
+    ],
+
+    "Guardia Principal": [
+        "Instalar rack principal",
+        "Instalar switch principal",
+        "Instalar UPS",
+        "Instalar PC de monitoreo",
+        "Instalar software",
+        "Configurar red",
+        "Pruebas de comunicación"
+    ],
+
+    "Backbone de Fibra": [
+        "Fibra hacia Torre 1",
+        "Fibra hacia Torre 2",
+        "Fibra hacia Torre 3",
+        "Fibra hacia Torre 4",
+        "Fibra hacia SUM / Gimnasio",
+        "Fusionado",
+        "Rotulado",
+        "Certificación"
+    ],
+
+    "Torre 1": [
+        "Rack",
+        "Control de Acceso",
+        "Cámara",
+        "Cerraduras Biométricas",
+        "Pruebas"
+    ],
+
+    "Torre 2": [
+        "Rack",
+        "Control de Acceso",
+        "Cámara",
+        "Cerraduras Biométricas",
+        "Pruebas"
+    ],
+
+    "Torre 3": [
+        "Rack",
+        "Control de Acceso",
+        "Cámara",
+        "Cerraduras Biométricas",
+        "Pruebas"
+    ],
+
+    "Torre 4": [
+        "Rack",
+        "Control de Acceso",
+        "Cámara",
+        "Cerraduras Biométricas",
+        "Pruebas"
+    ],
+
+    "SUM": [
+        "Instalar Control de Acceso",
+        "Instalar Cámara",
+        "Configuración",
+        "Pruebas"
+    ],
+
+    "Gimnasio": [
+        "Instalar Control de Acceso",
+        "Instalar Cámara",
+        "Configuración",
+        "Pruebas"
+    ],
+
+    "Acceso Principal": [
+        "Instalar Frente de Portero",
+        "Instalar Electroimán",
+        "Configuración",
+        "Pruebas"
+    ],
+
+    "Automatización del Portón": [
+        "Instalar Motor",
+        "Instalar Cremalleras",
+        "Instalar Fotocélulas",
+        "Programación",
+        "Pruebas"
+    ],
+
+    "Cerco Eléctrico": [
+        "Instalar Energizador",
+        "Tender Conductores (130 m)",
+        "Puesta a Tierra",
+        "Pruebas"
+    ],
+
+    "Alarma Garnet": [
+        "Instalar Panel",
+        "Instalar Barrera Infrarroja 1",
+        "Instalar Barrera Infrarroja 2",
+        "Programación",
+        "Pruebas"
+    ],
+
+    "Cámaras Perimetrales": [
+        "Cámara Perimetral P01",
+        "Cámara Perimetral P02",
+        "Cámara Perimetral P03",
+        "Cámara Perimetral P04",
+        "Cámara Perimetral P05"
+    ],
+
+    "Cámaras Subsuelo": [
+        "Cámara Subsuelo S01",
+        "Cámara Subsuelo S02",
+        "Cámara Subsuelo S03"
+    ],
+
+    "Configuración General": [
+        "Configurar Switches",
+        "Configurar Cámaras",
+        "Configurar Control de Acceso",
+        "Configurar Portero",
+        "Integración del Sistema",
+        "Backup de Configuración"
+    ],
+
+    "Puesta en Marcha": [
+        "Prueba Integral",
+        "Corrección de Observaciones",
+        "Capacitación al Cliente",
+        "Entrega de Documentación",
+        "Cierre de Obra"
+    ]
+}
