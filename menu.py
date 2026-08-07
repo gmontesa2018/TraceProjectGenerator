@@ -3,7 +3,7 @@
 # menu.py
 # ==========================================
 
-from nuevo_proyecto import nuevo_proyecto
+from configurador.asistente import nuevo_proyecto
 
 
 def limpiar():
